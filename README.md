@@ -1,29 +1,20 @@
-# testing-library
+# 🖥️ Vue.js Testing Library Playground
 
-## Project setup
-```
-npm install
-```
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔎️ Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
+A basic application made in order to test Vue Testing Library.
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## 🚀️ Technologies
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Vue.js 3
+- Vue Testing Library
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
