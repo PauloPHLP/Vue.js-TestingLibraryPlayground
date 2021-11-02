@@ -6,7 +6,7 @@
 
 ## 🔎️ Description
 
-A basic application made in order to test Vue Testing Library.
+A basic application created to test Vue Testing Library.
 
 ## 🚀️ Technologies
 
